@@ -1,0 +1,2 @@
+# lms
+Logical Mystery Solver
